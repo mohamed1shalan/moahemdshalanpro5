@@ -874,7 +874,6 @@ table tr:first-child:hover{
         background-color: rgba(226, 226, 226, 0.245);    }
     .c-total>div>div:nth-child(2){
         overflow-y: scroll;
-        height: fit-content;
         justify-content: space-between;
         height: 80%;
     }
