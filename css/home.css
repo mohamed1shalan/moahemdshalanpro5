@@ -164,9 +164,7 @@ header i{
     padding: 10px 10px ;
     background-color: 0;
 }
-.leftbar-mainue li:first-child{
-    background-color:var(--main-background) ;
-}
+
 .leftbar-mainue li a p{
     padding: 0 0 0 15px;
 }
