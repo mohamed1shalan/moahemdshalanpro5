@@ -876,6 +876,7 @@ table tr:first-child:hover{
         overflow-y: scroll;
         height: fit-content;
         justify-content: space-between;
+        height: 80%;
     }
     
 }
