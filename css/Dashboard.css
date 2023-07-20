@@ -713,7 +713,6 @@ overflow-y: scroll;
     .c13{
         grid-column-start:1;
         grid-column-end: 2;
-        overflow: auto;
     }
     .c13-container{
         overflow: auto;
